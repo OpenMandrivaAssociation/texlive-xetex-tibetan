@@ -1,6 +1,6 @@
 Name:		texlive-xetex-tibetan
 Version:	28847
-Release:	1
+Release:	2
 Summary:	XeTeX input maps for Unicode Tibetan
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/xetex/generic/tibetan
